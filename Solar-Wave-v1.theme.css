@@ -1,0 +1,27 @@
+//META{"name":"Solar-Wave-v1","description":"Made By Nabil","author":"Nabil","version":"Auto Update"}*//
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+:root {
+--themeColor1: #d400ff;
+--themeColor2: #6969f7;
+--customFont: 'Open Sans', sans-serif;
+--homeImage: url('https://imgur.com/Vndkfz6.png');
+--backgroundColor: rgba(0,0,0,0.4);
+--backgroundImage: url('https://imgur.com/AkAwkFK.png');
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.65;
+
+--rs-small-spacing: 2px;
+--rs-large-spacing: 3px;
+--rs-width: 7px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-streaming-color: #643da7;
+--rs-offline-color: #636b75;
+--rs-invisible-color: #747f8d;
+}

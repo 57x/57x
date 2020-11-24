@@ -1,0 +1,27 @@
+//META{"name":"RedTreev1","description":"Made By Nabil","author":"Nabil","version":"Auto Update"}*//
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Prompt');
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+:root {
+--themeColor1: #ff0000;
+--themeColor2: #5a5958;
+--customFont: 'Prompt', sans-serif;
+--homeImage: url('https://imgur.com/Vndkfz6.png');
+--backgroundColor: rgba(0,0,0,0.3);
+--backgroundImage: url('https://imgur.com/tdeaZwz.png');
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.8;
+
+--rs-small-spacing: 2px;
+--rs-large-spacing: 3px;
+--rs-width: 7px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-streaming-color: #643da7;
+--rs-offline-color: #636b75;
+--rs-invisible-color: #747f8d;
+}
